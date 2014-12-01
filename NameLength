@@ -1,0 +1,7 @@
+public class MyNameLength {
+  public static void main(String[] args) {
+    String MyNameLength = new String ("Maya"); // constructor must have same name as class 
+    MyNameLength.length(); 
+    System.out.println(MyNameLength.length()); 
+  }
+}
